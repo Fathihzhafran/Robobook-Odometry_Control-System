@@ -1,7 +1,7 @@
 # 🚧 Robobook: Odometry & Control System
 
 <div align="center">
-  <img src="LINK_GIF_KAMU_DISINI" alt="Robobook Phase 1 Overview" width="600">
+  <img src="media/Vid 20260128 134622.gif" alt="Robobook Phase 1 Overview" width="600">
   <p><i>Visualisasi performa Stage 1: ADRC Stability & Wireless Control</i></p>
 </div>
 
