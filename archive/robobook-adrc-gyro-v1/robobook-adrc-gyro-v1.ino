@@ -14,7 +14,7 @@
  * limitations under the License.
  *
  * Project: Robobook Odometry & Control System
- * Component: Advanced Velocity Tuning (Phase 2 - Bench Test)
+ * Component: Wireless UDP & ADRC Navigation (Phase 5)
  */
 
 #include <Wire.h>
