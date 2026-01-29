@@ -1,10 +1,8 @@
 # 🚧 Robobook: Odometry & Control System
 
 <div align="center">
-  <video src="media/Stage1 Overview.mp4" width="600" controls>
-    Your browser does not support the video tag.
-  </video>
-  <p><i>Demonstrasi Fase 1: ADRC Stability & Wireless Navigation</i></p>
+  <img src="LINK_GIF_KAMU_DISINI" alt="Robobook Phase 1 Overview" width="600">
+  <p><i>Visualisasi performa Stage 1: ADRC Stability & Wireless Control</i></p>
 </div>
 
 **Status: Work In Progress (Stage 1 Completed)**
