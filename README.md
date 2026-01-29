@@ -1,5 +1,12 @@
 # 🚧 Robobook: Odometry & Control System
 
+<div align="center">
+  <video src="LINK_VIDEO_MP4_KAMU_DISINI" width="600" controls>
+    Your browser does not support the video tag.
+  </video>
+  <p><i>Demonstrasi Fase 1: ADRC Stability & Wireless Navigation</i></p>
+</div>
+
 **Status: Work In Progress (Stage 1 Completed)**
 
 ---
