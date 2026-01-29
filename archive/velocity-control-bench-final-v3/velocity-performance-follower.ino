@@ -1,7 +1,7 @@
 /*
  * Copyright 2026 Fathihzafran
  * Licensed under the Apache License, Version 2.0 (the "License");
- * Project: Robobook Odometry - Hybrid Asymmetric Compensation
+ * Project: Robobook Odometry - Performance Follower Logic
  */
 
 #include <ESP32Servo.h>
