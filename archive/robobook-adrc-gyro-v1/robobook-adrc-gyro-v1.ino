@@ -1,8 +1,20 @@
 /*
  * Copyright 2026 Fathihzafran
- * Licensed under the Apache License, Version 2.0 (Apache 2.0)
- * * Project: Robobook ADRC Navigation
- * Features: ESO Disturbance Rejection, Heading Lock, Jump-Start Logic
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+ * Project: Robobook Odometry & Control System
+ * Component: Advanced Velocity Tuning (Phase 2 - Bench Test)
  */
 
 #include <Wire.h>
@@ -97,7 +109,7 @@ void setup() {
   Serial.begin(115200);
   ledcAttach(PIN_ESC_A, 50, 14); ledcAttach(PIN_ESC_B, 50, 14);
   
-  ledcWrite(PIN_ESC_A, msToDuty(1000)); 
+  ledcWrite(PIN_ESC_A, msToDuty(1500)); 
   ledcWrite(PIN_ESC_B, msToDuty(1000)); 
   delay(5000);
 
