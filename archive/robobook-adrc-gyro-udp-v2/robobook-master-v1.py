@@ -11,7 +11,7 @@ import threading
 from pynput import keyboard
 
 # --- NETWORK CONFIGURATION ---
-ROBOT_IP = "192.168.100.22" # Matches ESP32 IP from 28-Jan Iteration
+ROBOT_IP = "XXX.XXX.XXX.XX" # Matches ESP32 IP 
 PORT = 4210
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
