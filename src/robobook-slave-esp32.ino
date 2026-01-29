@@ -13,8 +13,8 @@
 #include <WiFiUdp.h>
 
 // --- NETWORK CONFIGURATION ---
-const char* ssid     = "PTIO ITB";    // Sesuaikan SSID
-const char* password = "wific1t4";    // Sesuaikan Password
+const char* ssid     = "YOUR_WIFI_SSID";    // Sesuaikan SSID
+const char* password = "YOUR_WIFI_PASSWORD";    // Sesuaikan Password
 const int udpPort    = 4210;
 WiFiUDP udp;
 
