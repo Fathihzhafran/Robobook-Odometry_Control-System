@@ -54,6 +54,15 @@ Robot mulai dikendalikan sepenuhnya secara nirkabel melalui jaringan WiFi PTIO I
 
 ---
 
+### 📅 9 - 12 Februari 2026: ESP-NOW dan Dual ADRC
+Robot dikendalikan sepenuhnya secara nirkabel berbasis data-link menggunakan protokol ESP-NOW dan besar kecepatan (RPM) dapat diubah secara langsung pada controller. Pengontrol ADRC diterapkan pada masing-masing roda untuk mengompensasi adanya perbedaan beban di sisi kanan dan kiri roda.
+
+* **Deskripsi:** Mengaktifkan kendali jarak jauh nirkabel menggunakan protokol ESP-NOW dan menerapkan dual ADRC.
+* **Pencapaian:** Integrasi sistem dual ADRC dengan perintah navigasi (Forward, Stop, Rotate, Curve) dan pengiriman telemetri sensor kembali ke laptop.
+* **Hasil:** Robot dapat bermanuver secara lincah tanpa kabel dengan cukup stabil terhadap gangguan lantai dan perbedaan beban sisi kanan dan kiri.
+
+---
+
 ## 📈 Tabel Ringkasan Teknis (Technical Summary)
 
 ### Perbandingan Metodologi (Phase 3 Comparison)
