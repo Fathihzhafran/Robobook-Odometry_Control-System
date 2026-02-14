@@ -32,4 +32,4 @@ This repository contains a hoverboard robot control system utilizing **ADRC** al
 * **`/archive`**: Comprehensive chronological logs and historical development iterations.
 
 ---
-*Developed by Fathihzafran © 2026*
+*Developed by Fathihzafran and Gabriela Heidy © 2026*
